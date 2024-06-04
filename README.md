@@ -1,7 +1,7 @@
 # Hi there 👋
 ### I'm Nadid. A Computer Scientist focused on building Software as a Service Solutions and Artificial Intelligence.
 
-[![Nadid Linchestein's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadidLinchestein)](https://github.com/NadidLinchestein/github-readme-stats)
+[![Nadid Linchestein's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadidLinchestein&show_icons=true)](https://github.com/NadidLinchestein/github-readme-stats)
 
 <!--
 **NadidLinchestein/NadidLinchestein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
