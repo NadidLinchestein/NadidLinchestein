@@ -3,10 +3,8 @@
 
 - 🔭 I’m currently working on a Hedge Fund Investment Platform
 - 🌱 I’m currently learning Go & Rust
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything Technology😄
-- 📫 How to reach me -> LinkedIn
-- 😄 Pronouns: ...
+- 📫 How to reach me -> LinkedInin [Section `Features`](#feature)
 - ⚡ Fun fact: I started programming when I was 11 with C++
 
 [![Nadid Linchestein's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadidLinchestein&show_icons=true)](https://github.com/NadidLinchestein/github-readme-stats)
