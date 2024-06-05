@@ -1,5 +1,5 @@
 # Hi there 👋
-### I'm Nadid. A Computer Scientist focused on building Software as a Service Solutions and Artificial Intelligence.
+### I'm Nadid. A Computer Scientist focused on building complex Software and Artificial Intelligence.
 
 [![Nadid Linchestein's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadidLinchestein&show_icons=true)](https://github.com/NadidLinchestein/github-readme-stats)
 
