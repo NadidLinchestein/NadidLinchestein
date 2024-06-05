@@ -7,14 +7,11 @@
 - 📫 How to reach me - [LinkedIn Profile](https://www.linkedin.com/in/nadid-linchestein/)
 - ⚡ Fun fact - I started programming when I was 11 with C++
 
-[![Nadid Linchestein's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadidLinchestein&show_icons=true)](https://github.com/NadidLinchestein/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadidLinchestein&layout=compact)](https://github.com/NadidLinchestein/github-readme-stats)
 
 <!--
-**NadidLinchestein/NadidLinchestein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Nadid Linchestein's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadidLinchestein&show_icons=true)](https://github.com/NadidLinchestein/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadidLinchestein&layout=compact)](https://github.com/NadidLinchestein/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -24,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
