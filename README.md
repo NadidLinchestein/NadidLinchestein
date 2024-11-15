@@ -1,5 +1,5 @@
 # Hi there 👋
-### I'm Nadid. A Computer Scientist focused on building Software and AI Solutions.
+### I'm Nadid. A Computer Scientist who's Software Engineering The Future of Humanity.
 
 - 🔭 I’m currently working on a Hedge Fund Investment Platform
 - 🌱 I’m currently learning Go & Rust
