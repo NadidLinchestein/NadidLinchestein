@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hey👋
 ### I'm Nadid. A Computer Scientist who's Software Engineering The Future of Humanity.
 
 - 🔭 I’m currently working on a Hedge Fund Investment Platform
