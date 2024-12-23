@@ -2,10 +2,10 @@
 ### I'm Nadid. A Computer Scientist who's Software Engineering The Future of Humanity.
 
 - 🔭 I’m currently working on a Hedge Fund Investment Platform
-- 🌱 I’m currently learning Go & Rust
-- 💬 Ask me about anything Technology😄
+- 🌱 I’m currently learning Low Level Programming for HFTs
+- - ⚡ Fun fact - I started programming when I was 11
+- 💬 Ask me about anything Technology & Finance😄
 - 📫 How to reach me - [LinkedIn Profile](https://www.linkedin.com/in/nadid-linchestein/)
-- ⚡ Fun fact - I started programming when I was 11 with C++
 
 
 <!--
